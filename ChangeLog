@@ -1,0 +1,23 @@
+commit 132dafb19d9debf04ce817f81b400595552b2e4d
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Aug 10 16:04:36 2024 +0300
+
+    chore(CONTRIBUTING): added
+
+commit 70e540a1f00394e18bb029984fa2c2e15c905f22
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Aug 9 20:55:51 2024 +0300
+
+    chore(COPYING): AGPL
+
+commit 507977918b4c8b96a31683054a7aa6e469237fea
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Thu May 9 15:01:11 2024 +0300
+
+    docs: README.textile
+
+commit a74a9ea7be22d5294eb20cdadb3f3d5745a4660d
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Thu May 9 14:45:03 2024 +0300
+
+    feat: initial commit
